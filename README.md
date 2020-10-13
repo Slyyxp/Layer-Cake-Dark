@@ -36,4 +36,5 @@ Dark variant of the Layer Cake JPopSuki CSS.
 
 
 # Disclaimer
+I do not claim to be the original creator of the layer cake stylesheet.  
 This stylesheet has not yet been cleaned up, only basic recolors and style changes have been applied.
