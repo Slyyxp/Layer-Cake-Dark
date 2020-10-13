@@ -1,9 +1,6 @@
 # Layer-Cake-Dark
 Dark variant of the Layer Cake JPopSuki CSS.
 
-# Disclaimer
-This stylesheet has not yet been cleaned up, only basic recolors and style changes have been applied.
-
 <details>
   <summary>Screenshots</summary>
   
@@ -32,3 +29,7 @@ This stylesheet has not yet been cleaned up, only basic recolors and style chang
   </p>
 
 </details>
+
+
+# Disclaimer
+This stylesheet has not yet been cleaned up, only basic recolors and style changes have been applied.
