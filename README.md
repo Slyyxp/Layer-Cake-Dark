@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/4fQRgsI.png">
+</p> 
+
 # Layer-Cake-Dark
 Dark variant of the Layer Cake JPopSuki CSS.
 
